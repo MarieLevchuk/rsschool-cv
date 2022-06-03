@@ -1,5 +1,6 @@
 # **Marie Levchuk**
-***************************\
+***************************
+
 ![Phone](icons/phone.png) +000(00)000-00-00\
 ![E-mail](icons/mail.png) marie.levchuk@gmail.com\
 ![Linkedin](icons/linkedin.png) [LinkedIn](https://www.linkedin.com/in/marie-levchuk/)\
