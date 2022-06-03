@@ -4,7 +4,7 @@
 ![Phone](icons/phone.png) +000(00)000-00-00\
 ![E-mail](icons/mail.png) marie.levchuk@gmail.com\
 ![Linkedin](icons/linkedin.png) [LinkedIn](https://www.linkedin.com/in/marie-levchuk/)\
-![Discord](icons/discord.png) rs-school server: @MarieLevchuk\
+![Discord](icons/discord.png) rs-school server: @MarieLevchuk
 
 ## about me
 > I can discribe myself as a purposeful, creative and executive person, who is result-oriented.
