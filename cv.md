@@ -18,8 +18,21 @@ I'm always ready to study new technologies and strive for professional growth.
    - Adobe Photoshop, Adobe Illustrator, Figma
    - Visual Studio, MS SQL Server   
 
-[**code example**]()
-
+**code example**\
+JS:
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+C#:
+```
+public class CustomMath {
+    public static int multiply(int a, int b) {
+        return a*b;
+    }
+}
+```
 ## education
   *BNTU* January 2022\
   Faculty: Mechanical Engineering\
